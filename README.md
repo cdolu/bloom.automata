@@ -1,4 +1,5 @@
-# bloom.automata
+# A Study On The Design And Manufacturing Of Mechanical Sculptures: The Blooming Flowers Automata
+
 
 Hello!
 
@@ -11,4 +12,5 @@ A laser cutter is used for the quick prototyping of the automata, however, the d
 Every step and method used in the study is opensource and available on this repository. For more of my projects, some of which are in a similar vein, you can visit my website linked on my profile. I take credit only for my own work, third-party contributors are referenced and not subject this projects' license! 
 
 ![image](https://github.com/cdolu/bloom.automata/assets/112435811/9904169c-5cac-47de-8d29-b53e739d68cf)
+
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
