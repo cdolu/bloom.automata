@@ -9,7 +9,7 @@ A modified Engineering Design Process (EDP) is created to cater to high school s
 
 A laser cutter is used for the quick prototyping of the automata, however, the design can be manufactured by hand with plywood or MDF and easily accessible tools such as hand saws and wood files. Making bevel gears is challenging and timely without a machine like a CNC because of their conical-shaped teeth. To compensate for this, cage and peg gears are used. Additionally, the gears are developed for the sculpture using gear theory to achieve peg gear trains with nonparallel axes of rotation. The real-life constraints of mechanical design engineering are dealt with by utilizing the mod. EDP and gear theory in the following study.
 
-![son_çiçek](https://github.com/cdolu/bloom.automata/assets/112435811/1552fc57-fd9b-4770-905a-6bb9de10bbb2) ![çi](https://github.com/cdolu/bloom.automata/assets/112435811/ad4fe51d-e411-46ce-8a48-a712da630ea6) ![çek](https://github.com/cdolu/bloom.automata/assets/112435811/15b4e9e9-f2e2-40d7-a4e5-37816849a5d3)
+![son_çiçek](https://github.com/cdolu/bloom.automata/assets/112435811/1552fc57-fd9b-4770-905a-6bb9de10bbb2)![çek](https://github.com/cdolu/bloom.automata/assets/112435811/15b4e9e9-f2e2-40d7-a4e5-37816849a5d3)
 
 
 Every step and method used in the study is opensource and available on this repository. For more of my projects, some of which are in a similar vein, you can visit my website linked on my profile. I take credit only for my own work, third-party contributors are referenced and not subject this projects' license! 
